@@ -17,12 +17,12 @@
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit from v31 device
-$(call inherit-product, device/lge/v31/device.mk)
+# Inherit from l24 device
+$(call inherit-product, device/lge/l24/device.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_DEVICE := v31
-PRODUCT_NAME := g3_kddi_volte
+PRODUCT_DEVICE := l24
+PRODUCT_NAME := g3_kddi
 PRODUCT_BRAND := lge
-PRODUCT_MODEL := LGV31
+PRODUCT_MODEL := LGL24
 PRODUCT_MANUFACTURER := LGE

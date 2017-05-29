@@ -2,7 +2,7 @@ Copyright 2014 - The CyanogenMod Project
 
 Copyright 2017 - The LineageOS Project
 
-Device configuration for LGE G3 VoLTE (KDDI)
+Device configuration for LGE G3 (KDDI)
 ============================================
 
 Basic   | Spec Sheet
@@ -10,7 +10,7 @@ Basic   | Spec Sheet
 CPU     | Quad-core 2.5 GHz Krait 400
 CHIPSET | Qualcomm MSM8975AC Snapdragon 801
 GPU     | Adreno 330
-Memory  | 3GB RAM
+Memory  | 2GB RAM
 Shipped Android Version | 4.4
 MicroSD | Up to 128GB
 Battery | 3000 mAh
